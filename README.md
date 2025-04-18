@@ -1,6 +1,6 @@
 # 💗 SoftUni MSSQL
 
-> 🧸 *A SoftUni MS SQL course i compleated in 2024*
+> 🧸 *A SoftUni MS SQL course i took in 2024*
 
 ---
 
